@@ -1,0 +1,27 @@
+ </header>
+
+  <main>
+    <section>
+      <h2>Who?</h2>
+      <p> Hello! My name is Troy Frattalone.</p>
+    </section>
+
+    <section>
+      <h2>The Deal</h2>
+      <article>
+        <h3>The What?</h3>
+        <p>I am an aspiring devleoper living in Denver, Colorado aquiring skills for the aquiring bills.</p>
+      </article>
+
+      <article>
+        <h3>The Gimmick?</h3>
+        <p>The New Age Man for THE NEW AGE. I am looking forward to fusing technology and spirituality in unique and innovative ways. Building a better future by using the past, present and future of cross-culture resources both ancient and futuristic.  </p>
+      </article>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; Don't step on my footer.</p>
+  </footer>
+</body>
+</html>
