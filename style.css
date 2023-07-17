@@ -1,0 +1,63 @@
+/* body element */
+body {
+  background-color: #800020; /* Red wine color */
+  color: #DAA520; /* Golden text color */
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+
+/* header h1 element */
+h1 {
+  font-size: 36px;
+  text-align: center;
+}
+
+/* h2 element */
+h2 {
+  font-size: 24px;
+}
+
+/* for h3 element */
+h3 {
+  font-size: 20px;
+}
+
+/*  p element */
+p {
+  margin: 10px;
+  padding: 5px;
+}
+
+/* ul element */
+ul {
+  list-style-type: disc;
+  margin: 10px;
+  padding: 5px;
+}
+
+/*ol element */
+ol {
+  list-style-type: decimal;
+  margin: 10px;
+  padding: 5px;
+}
+
+/*img element */
+img {
+  height: 200px;
+  margin: 10px;
+  padding: 5px;
+}
+
+/*a element */
+a {
+  color: #DAA520; /* Golden link color */
+  text-decoration: none;
+}
+
+/* hr element */
+hr {
+  margin: 20px;
+}
